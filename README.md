@@ -1,2 +1,2 @@
 # html5_essential_training 
-Essential Training of HTML
+Essential Training of HTML (Practice)
